@@ -1,3 +1,18 @@
+<div align="center">
+  <table border="1">
+    <tr>
+      <td align="center" style="padding: 20px;">
+        <h3>📢 Domain & Email Migration Notice</h3>
+        <p>Since <b>19 March 2026</b>, Carbonhub has transitioned to new domains as <code>carbonhub.app</code> was not renewed:</p>
+        <p>🌐 <b>Website:</b> <a href="https://carbonhub.faizath.com">carbonhub.faizath.com</a> (formerly <i>carbonhub.app</i>)<br>
+        ⚙️ <b>API:</b> <a href="https://carbonhub-api.faizath.com">carbonhub-api.faizath.com</a> (formerly <i>api.carbonhub.app</i>)<br>
+        🛰️ <b>CDN:</b> <a>carbonhub-cdn.faizath.com</a> (formerly <i>cdn.carbonhub.app</i>)<br>
+        📧 <b>Email:</b> <code>contact@carbonhub.faizath.com</code> (formerly <i>contact@carbonhub.app</i>)</p>
+      </td>
+    </tr>
+  </table>
+</div>
+
 # CarbonHub 🌱
 
 CarbonHub is a comprehensive carbon credit trading and monitoring platform that combines blockchain technology, IoT sensors, and modern web/mobile applications to create a sustainable ecosystem for carbon credit management.
@@ -11,7 +26,7 @@ CarbonHub consists of four main components, each serving a specific purpose in t
 The backbone of the platform, providing the core API and blockchain integration.
 
 **Repository:** [github.com/carbonhub-app/carbonhub-core](https://github.com/carbonhub-app/carbonhub-core)  
-**Deployment:** [api.carbonhub.app](https://api.carbonhub.app)
+**Deployment:** [carbonhub-api.faizath.com](https://carbonhub-api.faizath.com)
 
 **Key Features:**
 - Decentralized carbon credit trading
@@ -36,7 +51,7 @@ The backbone of the platform, providing the core API and blockchain integration.
 A modern web application for users to interact with the CarbonHub platform.
 
 **Repository:** [github.com/carbonhub-app/carbonhub-fe](https://github.com/carbonhub-app/carbonhub-fe)  
-**Deployment:** [carbonhub.app](https://carbonhub.app)
+**Deployment:** [carbonhub.faizath.com](https://carbonhub.faizath.com)
 
 **Key Features:**
 - Modern and responsive user interface
@@ -110,4 +125,4 @@ Each component has its own repository with detailed setup instructions. Please r
 
 ## 📧 Contact
 
-For any inquiries, please contact the CarbonHub development team at dev@carbonhub.app
+For any inquiries, please contact the CarbonHub development team at dev@carbonhub.faizath.com
