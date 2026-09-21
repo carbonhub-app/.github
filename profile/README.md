@@ -23,11 +23,11 @@ CarbonHub is a comprehensive carbon credit trading and monitoring platform that 
 
 CarbonHub consists of four main components, each serving a specific purpose in the ecosystem:
 
-### 1. CarbonHub Core (`carbonhub-core`) 🏗️
+### 1. CarbonHub API (`carbonhub-api`) 🏗️
 
 The backbone of the platform, providing the core API and blockchain integration.
 
-**Repository:** [github.com/carbonhub-app/carbonhub-core](https://github.com/carbonhub-app/carbonhub-core)  
+**Repository:** [github.com/carbonhub-app/carbonhub-api](https://github.com/carbonhub-app/carbonhub-api)  
 **Deployment:** [carbonhub-api.faizath.com](https://carbonhub-api.faizath.com)
 
 **Key Features:**
@@ -48,11 +48,11 @@ The backbone of the platform, providing the core API and blockchain integration.
 - Market Data: Yahoo Finance API
 - Charting: TradingView Charts Embed
 
-### 2. CarbonHub Frontend (`carbonhub-fe`) 🎨
+### 2. CarbonHub Web (`carbonhub-web`) 🎨
 
 A modern web application for users to interact with the CarbonHub platform.
 
-**Repository:** [github.com/carbonhub-app/carbonhub-fe](https://github.com/carbonhub-app/carbonhub-fe)  
+**Repository:** [github.com/carbonhub-app/carbonhub-web](https://github.com/carbonhub-app/carbonhub-web)  
 **Deployment:** [carbonhub.faizath.com](https://carbonhub.faizath.com)
 
 **Key Features:**
